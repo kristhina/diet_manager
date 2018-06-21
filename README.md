@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/kristhina/diet_manager.svg?branch=master)](https://travis-ci.com/kristhina/diet_manager.svg?branch=master)
 # diet_manager
 Aplikacja do prowadzenia diety
 1. Rejestracja i logowanie.
